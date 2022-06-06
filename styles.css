@@ -261,3 +261,8 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.youtube_link {
+    color: #ff9a00;
+    font-style: italic;
+}
